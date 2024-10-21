@@ -54,7 +54,7 @@ class _EnderecoState extends State<Endereco> {
                   child: Image.asset(
                     "assets/Edu_Logo_Light1.png",
                     width: size.width,
-                    height: 300,
+                    height: 301,
                   ),
                 ),
                 Container(
