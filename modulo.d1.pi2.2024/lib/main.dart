@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:modulodum/cadastro.dart';
+import 'package:modulodum/screens/cadastro.dart';
 
 void main() {
   runApp(const MyApp());
